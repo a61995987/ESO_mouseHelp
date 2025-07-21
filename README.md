@@ -7,3 +7,5 @@ pynput：https://pypi.org/project/pynput/
 pygame：https://www.pygame.org/news
 
 QT5：https://doc.qt.io/qtforpython/
+
+感谢GPT的倾力协助
