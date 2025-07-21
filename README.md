@@ -1,6 +1,8 @@
 # 一个上古卷轴OL早期的鼠标辅助工具
 一个上古卷轴OL早期的鼠标辅助工具 现在可能还能用
 
+python环境为3.10.11版本
+
 使用了pynput、pygame、QT5
 
 pynput：https://pypi.org/project/pynput/
